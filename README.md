@@ -8,7 +8,6 @@ It includes table creation scripts, sample data, and SQL queries such as SELECT,
 ## 📁 Files Included
 will be updated in future.  
 
-You can add or rename files based on your project.
 
 ## 🛠️ Requirements
 To run these SQL files, you need:
